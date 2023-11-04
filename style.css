@@ -1,0 +1,49 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: #0776a0;
+}
+
+.sam {
+    margin: 10px 10px 10px 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.family {
+    margin: 10px 10px 10px 10px;
+}
+
+h2 {
+    color: red;
+    font-size: 25px;
+    margin-left: 10px;
+}
+
+footer {
+    background-color: #0776a0;
+    color: white;
+    padding: 15px 35px 15px 35px;
+}
+
+a {
+    background-color: #ffb600;
+    text-decoration: none;
+    padding: 3px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    font-size: 30px;
+    color: black;
+}
+
+.dacha {
+    margin: 10px;
+}
+
+.sochi {
+    margin: 10px;
+}
